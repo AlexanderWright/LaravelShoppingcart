@@ -3,10 +3,15 @@
     "description": "Laravel Shoppingcart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
+    "version": "2.6.1",
     "authors": [
         {
             "name": "Rob Gloudemans",
             "email": "info@robgloudemans.nl"
+        },
+        {
+            "name": "Alexander Wright",
+            "email": "alexander@silverfish-design.co.uk"
         }
     ],
     "require": {
